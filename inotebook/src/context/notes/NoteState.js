@@ -1,3 +1,7 @@
+
+
+
+
 import { useState } from "react";
 import NoteContext from "./noteContext";
 
@@ -31,7 +35,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "64d8eedd696f47c18cf8cfb5",
+      _id: "64d8eedd696f47c18cf8cfb8",
       user: "64d872620ad4923a441cb62c",
       title: "my title",
       description: "React course details",
@@ -40,7 +44,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "64d8f2dc33f557438363a2d3",
+      _id: "64d8f2dc33f557438363a2d9",
       user: "64d872620ad4923a441cb62c",
       title: "my title",
       description: "React course details",
@@ -49,7 +53,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "64d8eedd696f47c18cf8cfb5",
+      _id: "64d8eedd696f47c18cf8cfb0",
       user: "64d872620ad4923a441cb62c",
       title: "my title",
       description: "React course details",
@@ -58,7 +62,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "64d8f2dc33f557438363a2d3",
+      _id: "64d8f2dc33f557438363a2d4",
       user: "64d872620ad4923a441cb62c",
       title: "my title",
       description: "React course details",
